@@ -1,5 +1,11 @@
 Esta es la historia de Diego
 
-Diego tiene 25 de edad y nacio en Ecuador
+Diego tiene 20 de edad 
+y nacio en Quito-Ecuador
 
 Hoy hablaremos de su historia.
+
+Esta estudiando el sistema de control de versiones,
+git y github
+
+Hoy es estudiante de la espe
