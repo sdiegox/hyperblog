@@ -1,0 +1,23 @@
+commit 7dcfe680e290f46f924c577db5840d3e10bb6528
+Author: sdiego <sdiego.black@gmail.com>
+Date:   Sun Mar 20 11:11:52 2022 +0100
+
+    agregamos un cambio al lugar de estudio
+
+commit 8579202f28947568b6cd004b350e3265054cb062
+Author: sdiego <sdiego.black@gmail.com>
+Date:   Sun Mar 20 11:07:07 2022 +0100
+
+    agregamos un cambio a sus estudios
+
+commit 6069035f4fd8e77d14e8b92a771743c861cb597d
+Author: sdiego <sdiego.black@gmail.com>
+Date:   Sun Mar 20 10:54:16 2022 +0100
+
+    cambios a la presentacion
+
+commit c4829a884934a35fcb8c5e910e92e212ebd49a02
+Author: sdiego <sdiego.black@gmail.com>
+Date:   Sun Mar 20 10:44:36 2022 +0100
+
+    mi primer commit
