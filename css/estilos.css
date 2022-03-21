@@ -36,6 +36,7 @@ body{
 }
 #post{
     padding: 1em;
+    background: white;
 }
 #footer{
     background: #777;
